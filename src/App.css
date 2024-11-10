@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box{
+  height: 400px;
+  width: 92vw;
+  border: 1px solid black;
+}
+.box img{
+  height: 350px;
+  margin: 20px ;
+}
+
+.btn{
+  margin: 30px 20px;
+  align-items: center;
+}
